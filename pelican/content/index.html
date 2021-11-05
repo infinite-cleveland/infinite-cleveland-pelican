@@ -1,0 +1,233 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<style>
+img {
+ display:block;
+ max-width:100%;
+ height:auto;
+ margin:2.5em auto
+}
+.clear {
+ clear:both
+}
+.hidden {
+ display:none
+}
+/**************************/
+#blog-header {
+  position:relative;
+  padding:6em 0;
+  text-align:center
+}
+#blog-header:after {
+  position:absolute;
+  width:32em;
+  height:1px;
+  left:50%;
+  bottom:0;
+  margin-left:-16em;
+  content:'';
+  background:#e5e4e1
+}
+#blog-header.has-cover {
+  padding:9em 0 10em;
+  background:#000;
+  overflow:hidden;
+}
+.blog-cover {
+  position:absolute;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  z-index:5;
+  background:no-repeat scroll center center/cover #000;
+  animation:.5s ease-in forwards fadein
+}
+.blog-cover:after {
+  position:absolute;
+  width:100%;
+  height:6em;
+  left:0;
+  bottom:0;
+  z-index:8;
+  content:'';
+  background:linear-gradient(to bottom,transparent 0%,rgba(0,0,0,0.5) 100%)
+}
+.blog-logo {
+  position:fixed;
+  max-width:2em;
+  left:0;
+  top:0;
+  margin:1em;
+  z-index:200
+}
+.blog-logo img {
+  display:block;
+  margin:0 auto
+}
+.blog-name {
+  color: #e1193a;
+  font-size: 4em;
+  position:relative;
+  display:block;
+  z-index:10;
+  margin:0;
+  padding:0;
+  font-family: "Lobster",cursive;
+  font-weight:700;
+  line-height:1em;
+  text-decoration:none
+}
+.blog-name a {
+ text-decoration:none;
+ font-weight:inherit;
+ color:inherit
+}
+/***********************/
+.table th, .table td {
+  vertical-align: middle;
+}
+</style>
+
+<header id="blog-header" class="has-cover">
+  <div class="inner">
+  <h1 class="blog-name"><a href="#">Infinite Cleveland</a></h1>
+  </div>
+  <div class="blog-cover cover" style="background-image: url('/img/cle.png')">
+  </div>
+</header>
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-lg-12">
+
+      <h1>About</h1>
+
+      <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tincidunt viverra massa, eu posuere
+      erat ornare sit amet. Etiam faucibus accumsan dictum. Etiam euismod, sapien quis congue placerat, risus mi
+      consectetur neque, sit amet placerat nunc nulla eu leo. Aliquam varius feugiat accumsan. Sed velit orci,
+      tempus in consectetur consectetur, sagittis eu lacus. Phasellus diam dolor, gravida at eleifend non,
+      placerat pharetra elit. Praesent vulputate viverra augue, sed imperdiet mi accumsan at. Vestibulum eu nisl
+      sed nulla sodales hendrerit sed a diam. <a href="#">More &#8594;</a>
+      </p>
+
+      <p> Fusce odio sem, sollicitudin sit amet elit vehicula, mattis mattis nisl. Etiam tempus ex eu risus
+      interdum, sit amet varius magna aliquet. Proin fringilla enim nunc, et hendrerit magna mattis vel. Cras
+      finibus tempor tempus. In nec mollis arcu, dictum eleifend mauris. Proin lobortis felis ut libero placerat
+      molestie. Maecenas pellentesque ullamcorper sem ut tempor. Morbi ut feugiat elit. Nunc suscipit faucibus est
+      gravida laoreet. Nulla ornare justo. <a href="#">More &#8594;</a>
+      </p>
+
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+
+        <h1>List of pages</h1>
+
+        <p><a href="#">Nam vitae ultricies ante</a> - Donec gravida purus erat, id finibus dolor mattis in.
+        </p>
+
+        <p><a href="#">Suspendisse in odio in lectus</a> - Facilisis laoreet sit amet nec purus. Morbi pharetra nunc massa.
+        </p>
+
+        <p><a href="#">Quis consectetur massa</a> - Tincidunt nec, sed dignissim ullamcorper convallis. Nulla facilisi.
+        </p>
+
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-12">
+
+        <h1>List of Games</h1>
+
+        <p>Nam vitae ultricies ante donec gravida purus Quisque tincidunt viverra massa, eu posuere erat ornare sit amet. Etiam faucibus accumsan dictum. Etiam euismod, sapien quis congue placerat, risus mi consectetur neque, sit amet placerat nunc nulla eu leo. Aliquam varius feugiat accumsan, sed velit orci.
+        </p>
+
+        <table class="table" style="text-align: center; border: 1px solid black;">
+            <thead>
+                <tr>
+                    <th>Game</th>
+                    <th>Winnner</th>
+                    <th>Score</th>
+                    <th>Loser</th>
+                    <th>Innings</th>
+                    <th>Links</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <a href="#">Game 1</a>
+                    </td>
+                    <td style="background-color: #e1193a; color: #eee; font-weight: bold;">Cleveland (1)</td>
+                    <td>9-3</td>
+                    <td style="background-color: #18a0ad; color: #eee;">Florida (0)</td>
+                    <td>(9)</td>
+                    <td>
+                        <button type="button" class="btn btn-secondary">Box Score</button>
+                        <button type="button" class="btn btn-secondary">Play By Play</button>
+                        <button type="button" class="btn btn-secondary">Details</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="#">Game 2</a>
+                    </td>
+                    <td style="background-color: #e1193a; color: #eee; font-weight: bold;">Cleveland (2)</td>
+                    <td>3-0</td>
+                    <td style="background-color: #18a0ad; color: #eee;">Florida (0)</td>
+                    <td>(9)</td>
+                    <td>
+                        <button type="button" class="btn btn-secondary">Box Score</button>
+                        <button type="button" class="btn btn-secondary">Play By Play</button>
+                        <button type="button" class="btn btn-secondary">Details</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="#">Game 3</a>
+                    </td>
+                    <td style="background-color: #18a0ad; color: #eee; font-weight: bold;">Florida (1)</td>
+                    <td>12-10</td>
+                    <td style="background-color: #e1193a; color: #eee;">Cleveland (2)</td>
+                    <td>(10)</td>
+                    <td>
+                        <button type="button" class="btn btn-secondary">Box Score</button>
+                        <button type="button" class="btn btn-secondary">Play By Play</button>
+                        <button type="button" class="btn btn-secondary">Details</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="#">Game 4</a>
+                    </td>
+                    <td style="background-color: #18a0ad; color: #eee; font-weight: bold;">Florida (2)</td>
+                    <td>1-0</td>
+                    <td style="background-color: #e1193a; color: #eee;">Cleveland (2)</td>
+                    <td>(9)</td>
+                    <td>
+                        <button type="button" class="btn btn-secondary">Box Score</button>
+                        <button type="button" class="btn btn-secondary">Play By Play</button>
+                        <button type="button" class="btn btn-secondary">Details</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+  </div>
+
+</div>
+
+{% endblock %}
+{% block css %}
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
+{% endblock %}
+{% block javascript %}
+  <script type="text/javascript" src="index.js"></script>
+{% endblock %}
