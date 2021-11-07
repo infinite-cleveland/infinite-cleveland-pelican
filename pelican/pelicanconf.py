@@ -14,13 +14,13 @@ HERE = os.path.abspath(os.path.dirname(__file__))
 SITENAME = u'Infinite Cleveland'
 
 PATH = 'content'
-THEME = 'golly-pelican-theme'
+THEME = 'infinite-cleveland-pelican-theme'
 
 # Don't try to turn HTML files into pages
 READERS = {'html': None}
 
 # Static stuff
-STATIC_PATHS = ['img']
+STATIC_PATHS = ['img', 'almanacs']
 
 
 # --------------------
@@ -29,16 +29,13 @@ STATIC_PATHS = ['img']
 TEMPLATE_PAGES = {}
 
 TEMPLATE_PAGES['index.html'] = 'index.html'
-TEMPLATE_PAGES['index.js'] = 'index.js'
 
 # --------------------
 # Add custom routes
 
 THEME_TEMPLATES_OVERRIDES = []
-#THEME_TEMPLATES_OVERRIDES.append('simulator')
-
-#TEMPLATE_PAGES['simulator/rainbow.html'] = 'simulator/index.html'
-#TEMPLATE_PAGES['simulator/rainbow.js']   = 'simulator/rainbow.js'
+#THEME_TEMPLATES_OVERRIDES.append('foobar')
+#TEMPLATE_PAGES['foobar/special.html'] = 'foobar/index.html'
 
 # --------------------
 # SHUT UP
