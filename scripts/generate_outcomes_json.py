@@ -18,7 +18,7 @@ outcomes.json data structure:
             "LColor": "18a0ad",
             "LRuns": 5,
             "Innings": 9,
-            "AlmanacDir": "infinite_cleveland_g01_XYZ"
+            "AlmanacName": "infinite_cleveland_g01_XYZ"
         }
     ]
 """

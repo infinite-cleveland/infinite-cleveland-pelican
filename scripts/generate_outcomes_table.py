@@ -72,8 +72,12 @@ table_row_template = """
                     <td style="background-color: #{loser_color}; color: #eee;">{loser_name}</td>
                     <td>({innings})</td>
                     <td>
-                        <button type="button" class="btn btn-small btn-secondary">Box Score</button>
-                        <button type="button" class="btn btn-small btn-secondary">Play By Play</button>
+                        <a style="text-decoration: none;" href="almanacs/{almanac_name}/box_scores/game_box_1.html">
+                        <button class="btn btn-small btn-secondary">Box Score</button>
+                        </a>
+                        <a style="text-decoration: none;" href="almanacs/{almanac_name}/game_logs/log_1.html">
+                        <button class="btn btn-small btn-secondary">Play By Play</button>
+                        </a>
                     </td>
                 </tr>
 """
@@ -98,6 +102,7 @@ for outcome in outcomes_json:
         loser_color=outcome['LColor'],
         loser_runs=outcome['LRuns'],
         innings=outcome['Innings'],
+        almanac_name=outcome['AlmanacName']
     )
     new_index_html_table.append(table_row)
 

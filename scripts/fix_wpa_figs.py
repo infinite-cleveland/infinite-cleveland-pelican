@@ -3,6 +3,7 @@ import json
 import os
 import glob
 
+
 """
 fix_wpa_figs.py
 
@@ -59,4 +60,4 @@ for k, gamedir in enumerate(gamedirs):
     else:
         print(f"Found an existing WPA directory in {almanac_name} almanac, no need to fix")
 
-print(f"Finished fixing WPA images")
+print("Finished fixing WPA images")
