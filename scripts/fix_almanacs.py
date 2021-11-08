@@ -262,6 +262,7 @@ def fix_head(soup, new_title):
 
     # Insert our own link elements
     new_links = [
+        soup.new_tag("link", rel="stylesheet", type="text/css", href="/theme/css/fonts.css"),
         soup.new_tag("link", rel="stylesheet", type="text/css", href="/theme/css/slate.css"),
         soup.new_tag("link", rel="stylesheet", type="text/css", href="/theme/css/custom.css"),
         soup.new_tag("link", rel="stylesheet", type="text/css", href="/theme/css/ootp.css"),
