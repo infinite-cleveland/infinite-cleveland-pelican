@@ -65,7 +65,7 @@ table_tail = """
 table_row_template = """
                 <tr>
                     <td>
-                        <a href="#">Game {game_index}</a>
+                        Timeline {game_index}
                     </td>
                     <td style="background-color: #{winner_color}; color: #eee; font-weight: bold;">{winner_name}</td>
                     <td>{winner_runs}-{loser_runs}</td>
