@@ -1,4 +1,5 @@
 import os
+from pelican.readers import MarkdownReader
 
 
 INFINITE_PELICAN_VERSION = "0.1.0"
@@ -17,7 +18,10 @@ PATH = 'content'
 THEME = 'infinite-cleveland-pelican-theme'
 
 # Don't try to turn HTML files into pages
-READERS = {'html': None}
+READERS = {
+    'html': None,
+    'md': MarkdownReader
+}
 
 # Static stuff
 STATIC_PATHS = ['img', 'almanacs']
