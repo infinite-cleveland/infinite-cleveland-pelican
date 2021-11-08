@@ -60,5 +60,6 @@ for k, gamedir in enumerate(gamedirs):
     print(f"Copying {src_dir} to {dest_dir}")
     copytree(src_dir, dest_dir, ignore=ignore_patterns('coaches', 'leagues', 'players', 'teams'))
 
+    #break
 
 print("Finished creating almanacs")
