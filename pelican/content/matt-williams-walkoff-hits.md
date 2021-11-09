@@ -12,7 +12,8 @@ Date: 2000-01-01 00:00
 In a high-scoring slugfest that closely resembles the real Game 3, Florida and Cleveland entered
 the 9th inning with Cleveland up 13-10. But in the top of the 9th, a Darren Daulton solo home run
 and several base hits off of Cleveland reliver Michael Jackson put the Marlins up 14-13, with Jose
-Mesa coming in for Cleveland to get the third out with the bases loaded.
+Mesa coming in for Cleveland to get the third out with the bases loaded, keeping it a one-run game
+and keeping the hope of a walkoff alive.
 
 In the bottom of the 9th, Jim Thome got a single, and a 2-out walk put Tony Fernandez on first base.
 On a 2-2 pitch from Livan Hernandez, Williams hit a fly ball double to center field, scoring Thome
