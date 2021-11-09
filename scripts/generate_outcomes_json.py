@@ -24,8 +24,10 @@ outcomes.json data structure:
 """
 
 
-CLE_COLOR = "e1193a"
-FLA_COLOR = "18a0ad"
+#CLE_COLOR = "e1193a"
+CLE_COLOR = "e31937"
+#FLA_COLOR = "18a0ad"
+FLA_COLOR = "009ca6"
 HERE = os.path.abspath(os.path.dirname(__file__))
 ROOT = os.path.abspath(os.path.join(HERE, '..'))
 DATA = os.path.join(ROOT, 'data')
