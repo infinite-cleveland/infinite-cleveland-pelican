@@ -9,24 +9,18 @@ GH_ORG="infinite-cleveland"
 # for infinitecleveland.com
 GH_REPO="infinitecleveland.com"
 
+DOM="infinitecleveland.com"
+
 # This is machine-dependent (SSH config)
 GH_URL="ch4zm.github.com"
 DRY_RUN=""
 
 if [ -z ${INFINITE_PELICAN_HOME+x} ]; then
 	echo 'You must set the $INFINITE_PELICAN_HOME environment variable to proceed.'
-    echo 'Try sourcing environment.{STAGE}'
+    echo 'Try sourcing environment'
 	exit 1
 else 
 	echo "\$INFINITE_PELICAN_HOME is set to '$INFINITE_PELICAN_HOME'"
-fi
-
-if [ -z ${INFINITE_STAGE+x} ]; then
-	echo 'You must set the $INFINITE_STAGE environment variable to proceed.'
-    echo 'Try sourcing environment.{STAGE}'
-	exit 1
-else 
-	echo "\$INFINITE_STAGE is set to '$INFINITE_STAGE'"
 fi
 
 # Check for command line flag `--dry-run`
@@ -66,7 +60,7 @@ echo $DOM > CNAME
 
 git add -A .
 
-git commit -a -m "Automatic deploy of ${INFINITE_STAGE} at $(date -u +"%Y-%m-%d-%H-%M-%S")"
+git commit -a -m "Automatic deploy of infinite-cleveland at $(date -u +"%Y-%m-%d-%H-%M-%S")"
 
 RESULT=$?
 if [ $RESULT -eq 0 ]; then
