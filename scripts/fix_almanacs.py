@@ -1,3 +1,4 @@
+import shutil
 import re
 import os
 import glob
@@ -418,6 +419,33 @@ def filter_game_log_page(almanacdir, k):
             f.write(soup.prettify())
 
 
+def clean_unused_files(almanacdir):
+
+    def _safe_rm(f):
+        try:
+            os.remove(f)
+        except FileNotFoundError:
+            pass
+
+    img_to_rm = glob.glob(
+        os.path.join(almanacdir, 'images', '*.png')
+    )
+    img_to_rm += glob.glob(
+        os.path.join(almanacdir, 'images', '*.jpg')
+    )
+    for img_file in img_to_rm:
+        _safe_rm(img_file)
+
+    css_to_rm = glob.glob(
+        os.path.join(almanacdir, '*.css')
+    )
+    for css_file in css_to_rm:
+        _safe_rm(css_file)
+
+    person_pics_dir = os.path.join(almanacdir, 'images', 'person_pictures')
+    shutil.rmtree(person_pics_dir)
+
+
 def main():
 
     almanacdirs = sorted(glob.glob(os.path.join(ALMANACS, '*')))
@@ -460,6 +488,8 @@ def main():
         filter_box_score_page(almanacdir, k)
 
         filter_game_log_page(almanacdir, k)
+
+        clean_unused_files(almanacdir)
 
         #break 
 
