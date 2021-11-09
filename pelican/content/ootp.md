@@ -5,11 +5,24 @@ Date: 2000-01-01 00:00
 
 ## Overview
 
-Out of the Park Baseball Simulator (OOTP) is a
-game with a realistic baseball game simulation engine
-and comprehensive historical data. It is very flexible
-and has many adjustable parameters. The program also offers
-many ways of exporting data from the games that it simulates.
+Out of the Park Baseball Simulator (OOTP) is a computer game 
+that lets you control and simulate baseball leagues and teams.
+The game can simulate everything from multiple seasons of hundreds
+of games between dozens of teams, all the way down to allowing the
+user to play out a game pitch by pitch, making managerial decisions
+along the way. The game is extremely flexible, with many adjustable
+parameters, and the ability to either micromanage, or to allow the
+computer to use its best judgement. The simulator is also programmed
+with a wide variety of managerial strategies from different baseball
+eras, and even the automatic decision-making is easily customized.
+The program also offers a suite of tools for importing and exporting
+data from a variety of formats and for a variety of uses, ranging from
+raw data in CSV format, to pre-formatted HTML pages and stylesheets.
+
+For Infinite Cleveland, we used OOTP in Exhibition Mode, which is a
+way of simulating a single playoffs game, series, or bracket.
+(Infinite Cleveland is just scratching the surface of the different
+ways of dipping into the pool of infinite timelines.)
 
 ## Exhibition Games
 
