@@ -2,10 +2,10 @@
     {
         "Index": 0,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 15,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 14,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g01_cle15fla14"
@@ -13,10 +13,10 @@
     {
         "Index": 1,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 8,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 4,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g02_cle8fla4"
@@ -24,10 +24,10 @@
     {
         "Index": 2,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 6,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 0,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g03_cle6fla0"
@@ -35,10 +35,10 @@
     {
         "Index": 3,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 11,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 7,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g04_fla11cle7"
@@ -46,10 +46,10 @@
     {
         "Index": 4,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 14,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 3,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g05_cle14fla3"
@@ -57,10 +57,10 @@
     {
         "Index": 5,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 13,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 11,
         "Innings": 11,
         "AlmanacName": "infinite_cleveland_g06_fla13cle11"
@@ -68,10 +68,10 @@
     {
         "Index": 6,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 18,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 5,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g07_cle18fla5"
@@ -79,10 +79,10 @@
     {
         "Index": 7,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 12,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 2,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g08_cle12fla2"
@@ -90,10 +90,10 @@
     {
         "Index": 8,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 8,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 7,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g09_cle8fla7"
@@ -101,10 +101,10 @@
     {
         "Index": 9,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 1,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 0,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g10_fla1cle0"
@@ -112,10 +112,10 @@
     {
         "Index": 10,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 5,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 4,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g11_cle5fla4"
@@ -123,10 +123,10 @@
     {
         "Index": 11,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 6,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 5,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g12_cle6fla5"
@@ -134,10 +134,10 @@
     {
         "Index": 12,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 9,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 3,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g13_cle9fla3"
@@ -145,10 +145,10 @@
     {
         "Index": 13,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 10,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 8,
         "Innings": 12,
         "AlmanacName": "infinite_cleveland_g14_cle10fla8"
@@ -156,10 +156,10 @@
     {
         "Index": 14,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 3,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 2,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g15_cle3fla2"
@@ -167,10 +167,10 @@
     {
         "Index": 15,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 12,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 8,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g16_cle12fla8_messy"
@@ -178,10 +178,10 @@
     {
         "Index": 16,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 10,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 6,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g17_cle10fla6"
@@ -189,10 +189,10 @@
     {
         "Index": 17,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 17,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 5,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g18_cle17fla6"
@@ -200,10 +200,10 @@
     {
         "Index": 18,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 10,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 7,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g19_fla10cle6"
@@ -211,10 +211,10 @@
     {
         "Index": 19,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 15,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 12,
         "Innings": 11,
         "AlmanacName": "infinite_cleveland_g20_cle15fla12"
@@ -222,10 +222,10 @@
     {
         "Index": 20,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 11,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 2,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g21_cle11fla2"
@@ -233,10 +233,10 @@
     {
         "Index": 21,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 10,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 7,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g22_cle10fla6"
@@ -244,10 +244,10 @@
     {
         "Index": 22,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 8,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 5,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g23_cle8fla5"
@@ -255,10 +255,10 @@
     {
         "Index": 23,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 4,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 1,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g24_cle4fla1"
@@ -266,10 +266,10 @@
     {
         "Index": 24,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 10,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 7,
         "Innings": 11,
         "AlmanacName": "infinite_cleveland_g25_fla10cle7"
@@ -277,10 +277,10 @@
     {
         "Index": 25,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 2,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 1,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g26_cle2fla1"
@@ -288,10 +288,10 @@
     {
         "Index": 26,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 3,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 2,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g27_cle3fla2"
@@ -299,10 +299,10 @@
     {
         "Index": 27,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 5,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 3,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g28_cle5fla3"
@@ -310,10 +310,10 @@
     {
         "Index": 28,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 15,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 4,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g29_cle15fla4"
@@ -321,10 +321,10 @@
     {
         "Index": 29,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 11,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 3,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g30_cle11fla3"
@@ -332,10 +332,10 @@
     {
         "Index": 30,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 5,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 4,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g31_cle5fla4"
@@ -343,10 +343,10 @@
     {
         "Index": 31,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 5,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 4,
         "Innings": 10,
         "AlmanacName": "infinite_cleveland_g32_fla5cle4"
@@ -354,10 +354,10 @@
     {
         "Index": 32,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 12,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 9,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g33_cle12fla9"
@@ -365,10 +365,10 @@
     {
         "Index": 33,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 7,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 6,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g34_fla7cle6"
@@ -376,10 +376,10 @@
     {
         "Index": 34,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 8,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 2,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g35_cle8fla2"
@@ -387,10 +387,10 @@
     {
         "Index": 35,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 7,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 5,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g36_cle7fla5"
@@ -398,10 +398,10 @@
     {
         "Index": 36,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 4,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 1,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g37_cle4fla1"
@@ -409,10 +409,10 @@
     {
         "Index": 37,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 17,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 2,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g38_cle17fla2_nightmare"
@@ -420,10 +420,10 @@
     {
         "Index": 38,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 14,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 1,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g39_fla14cle1_nightmare2"
@@ -431,10 +431,10 @@
     {
         "Index": 39,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 16,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 6,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g40_cle16fla6"
@@ -442,10 +442,10 @@
     {
         "Index": 40,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 11,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 6,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g41_fla11cle6"
@@ -453,10 +453,10 @@
     {
         "Index": 41,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 13,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 3,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g42_cle13fla3"
@@ -464,10 +464,10 @@
     {
         "Index": 42,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 8,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 6,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g43_cle8fla6"
@@ -475,10 +475,10 @@
     {
         "Index": 43,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 10,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 5,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g44_fla10cle5"
@@ -486,10 +486,10 @@
     {
         "Index": 44,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 4,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 0,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g45_cle4fla0"
@@ -497,10 +497,10 @@
     {
         "Index": 45,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 7,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 0,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g46_cle7fla0"
@@ -508,10 +508,10 @@
     {
         "Index": 46,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 4,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 3,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g47_cle4fla3"
@@ -519,10 +519,10 @@
     {
         "Index": 47,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 8,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 6,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g48_fla8cle6"
@@ -530,10 +530,10 @@
     {
         "Index": 48,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 11,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 4,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g49_cle11fla4"
@@ -541,10 +541,10 @@
     {
         "Index": 49,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 10,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 2,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g50_cle10fla2"
@@ -552,10 +552,10 @@
     {
         "Index": 50,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 11,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 8,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g51_fla11cle8"
@@ -563,10 +563,10 @@
     {
         "Index": 51,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 7,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 1,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g52_fla7cle1"
@@ -574,10 +574,10 @@
     {
         "Index": 52,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 3,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 2,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g53_cle3fla2"
@@ -585,10 +585,10 @@
     {
         "Index": 53,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 7,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 5,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g54_cle7fla5"
@@ -596,10 +596,10 @@
     {
         "Index": 54,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 5,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 4,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g55_cle5fla4"
@@ -607,10 +607,10 @@
     {
         "Index": 55,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 7,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 4,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g56_cle7fla4"
@@ -618,10 +618,10 @@
     {
         "Index": 56,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 4,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 3,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g57_cle4fla3"
@@ -629,10 +629,10 @@
     {
         "Index": 57,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 17,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 9,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g58_fla17cle9"
@@ -640,10 +640,10 @@
     {
         "Index": 58,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 20,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 1,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g59_fla20cle1"
@@ -651,10 +651,10 @@
     {
         "Index": 59,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 7,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 6,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g60_fla7cle6"
@@ -662,10 +662,10 @@
     {
         "Index": 60,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 13,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 4,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g61_cle13fla4"
@@ -673,10 +673,10 @@
     {
         "Index": 61,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 7,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 5,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g62_fla7cle5"
@@ -684,10 +684,10 @@
     {
         "Index": 62,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 10,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 5,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g63_cle10fla5"
@@ -695,10 +695,10 @@
     {
         "Index": 63,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 15,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 5,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g64_cle15fla5"
@@ -706,10 +706,10 @@
     {
         "Index": 64,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 13,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 1,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g65_cle13fla1"
@@ -717,10 +717,10 @@
     {
         "Index": 65,
         "WName": "Florida",
-        "WColor": "18a0ad",
+        "WColor": "009ca6",
         "WRuns": 8,
         "LName": "Cleveland",
-        "LColor": "e1193a",
+        "LColor": "e31937",
         "LRuns": 6,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g66_fla8cle6"
@@ -728,10 +728,10 @@
     {
         "Index": 66,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 23,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 22,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g67_cle23fla22"
@@ -739,10 +739,10 @@
     {
         "Index": 67,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 25,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 24,
         "Innings": 9,
         "AlmanacName": "infinite_cleveland_g68_cle25fla24"
@@ -750,10 +750,10 @@
     {
         "Index": 68,
         "WName": "Cleveland",
-        "WColor": "e1193a",
+        "WColor": "e31937",
         "WRuns": 6,
         "LName": "Florida",
-        "LColor": "18a0ad",
+        "LColor": "009ca6",
         "LRuns": 5,
         "Innings": 10,
         "AlmanacName": "infinite_cleveland_g69_cle6fla5_10inn"
