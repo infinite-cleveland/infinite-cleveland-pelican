@@ -20,7 +20,7 @@ a shutout game that Florida won 1-0.
 ## Timeline 26: 7 Innings, 6 Strikeouts (L, CLE 2-1 FLA)
 
 In Timeline 26, a pitcher's duel, Leiter lasted for 7 innings, striking out 6 and giving up
-just 1 run; but Nagy struck out 8 in just 6 1/3, and the game was tied 1-1 going into the
+just 1 run; Nagy struck out 8 in just 6 1/3. The game was tied 1-1 going into the
 bottom of the ninth.
 
 With Rob Nen on the mound for Florida, Matt Williams reached first base on an error by Jim Eisenreich (LF),
