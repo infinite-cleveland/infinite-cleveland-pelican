@@ -3,9 +3,9 @@ Date: 2000-01-01 00:00
 
 # Charles Nagy's Gems
 
-[Charles Nagy @ baseball-reference.com](#)
+[Charles Nagy @ baseball-reference.com](https://www.baseball-reference.com/players/n/nagych01.shtml)
 
-[Charles Nagy @ Wikipedia](#)
+[Charles Nagy @ Wikipedia](https://en.wikipedia.org/wiki/Charles_Nagy)
 
 ## Timeline 3: 1 Out Shy of a Complete Game Shutout (W, CLE 6-0 FLA)
 
