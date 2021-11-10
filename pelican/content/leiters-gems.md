@@ -3,6 +3,10 @@ Date: 2000-01-01 00:00
 
 # Al Leiter's Gems
 
+[Al Leiter @ baseball-reference.com](https://www.baseball-reference.com/players/l/leiteal01.shtml)
+
+[Al Leiter @ Wikipedia](https://en.wikipedia.org/wiki/Al_Leiter)
+
 ## Timeline 10: 8 Shutout Innings, 8 Strikeouts, Combined Shutout (W, FLA 1-0 CLE)
 
 Arguably Leiter's greatest performance, in Timeline 10 Leiter pitched 8 shutout innings
