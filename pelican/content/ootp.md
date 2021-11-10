@@ -105,7 +105,7 @@ Start by locating the directory where OOTP stores application data; it should be
 somewhere in the game's Settings panel. On Mac, the application data directory is here:
 
 ```
-$ cd "/Users/<username>/Library/Application Support/Out of the Park Developments/OOTP Baseball 20"
+$ open "/Users/<username>/Library/Application Support/Out of the Park Developments/OOTP Baseball 20"
 ```
 
 The directory `saved_games` contains the saved games, which are contained in folders with an
