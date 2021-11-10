@@ -40,4 +40,22 @@ to Bip Roberts, and Williams charged home and dove under the catcher's tag in a 
 
 [Timeline 26 Game Log](/almanacs/infinite_cleveland_g26_cle2fla1/game_logs/log_1.html)
 
+## Timeline 53: 8 Strikeouts in 6 Innings (W, CLE 3-2 FLA)
+
+Nagy's Timeline 53 outing was modest, lasting just 6 innings, but Nagy notched
+8 strikeouts, giving up just 1 run in the 2nd inning off of a walk to Bonilla
+and a double by Charles Johnson.
+
+Meanwhile, Al Leiter pitched 8 innings of shutout ball in a tight game, getting the job done
+despite notching only 3 strikeouts. 
+
+In a tight game, Cleveland and Florida went into the bottom of the ninth with Florida
+ahead 2-1. Rob Nen came in to relieve Lieter, and in classic "Nenth Worst" fashion,
+issued a walk to David Justice, gave up a single to Alomar Jr. that put Justice on third,
+then surrendered the tying run on a wild pitch that was so wild Justice could have
+walked home.
+
+Manny hit a sacrifice fly that moved Alomar Jr. to third, and Counsell got tied up on a
+routine ground ball to second by Tony Fernandez that allowed Fernandez to reach first,
+and allowed Alomar Jr. to score from third, costing Florida the game.
 
