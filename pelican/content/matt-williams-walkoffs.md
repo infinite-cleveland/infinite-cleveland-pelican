@@ -1,4 +1,4 @@
-Title: Matt Williams Walkoff Hits
+Title: Matt Williams Walkoffs
 Date: 2000-01-01 00:00
 
 # Matt Williams Walkoffs
@@ -38,6 +38,35 @@ took deep, a 414 foot blast into enter field, to finally bring an end to a an ex
 [Timeline 14 Box Score](/almanacs/infinite_cleveland_g14_cle10fla8/box_scores/game_box_1.html)
 
 [Timeline 14 Game Log](/almanacs/infinite_cleveland_g14_cle10fla8/game_logs/log_1.html)
+
+## Timeline 26: Play At The Plate Walkoff
+
+Timeline 26 was a pitchers' duel, with fine performances by both Nagy (8K, 6.3 IP) and Leiter (6K, 7IP).
+Each pitcher gave up only one run, and the game was tied 1-1 going into the bottom of the ninth.
+With Rob Nen on the mound for Florida, Matt Williams reached first base on a routine fly ball to 
+left field that was mishandled by Jim Eisenreich. 
+
+Williams advanced to second on a single by Vizquel, then Bip Roberts hit a single to left field.
+Williams charged home and barely beat out Eisenreich's throw from left by sliding just under
+Johnson's tag, for a dramatic walkoff play at the plate.
+
+[Timeline 26 Box Score](/almanacs/infinite_cleveland_g26_cle2fla1/box_scores/game_box_1.html)
+
+[Timeline 26 Game Log](/almanacs/infinite_cleveland_g26_cle2fla1/game_logs/log_1.html)
+
+## Timeline 32: Near-Miss Not-Quite-A-Walkoff Solo Home Run vs Nen
+
+In Timeline 32, Florida's pitching staff was dominating Cleveland in a 4-hit game. The Indians held on
+to a 3-2 lead going into the 9th, but gave up a run and couldn't come up with anything in the bottom
+of the 9th. The game was tied 3-3 going into the 10th. Florida scored 2 runs in the top of the 10th,
+and it was Cleveland's last chance.
+
+With one out and the bases empty in the bottom of the 10th, Matt Williams hit a solo home run off of
+Rob Nen to make it 4-5, but nobody else could muster a hit. A near-walkoff solo shot by Williams.
+
+[Timeline 32 Box Score](/almanacs/infinite_cleveland_g32_fla5cle4/box_scores/game_box_1.html)
+
+[Timeline 32 Game Log](/almanacs/infinite_cleveland_g32_fla5cle4/game_logs/log_1.html)
 
 ## Timeline 69: 10th-Inning Walkoff 3-Run Home Run vs Heredia
 
