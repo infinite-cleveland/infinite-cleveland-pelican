@@ -63,3 +63,36 @@ the throw to first, allowing Alomar Jr. to score the walk-off win from third.
 [Timeline 53 Box Score](/almanacs/infinite_cleveland_g53_cle3fla2/box_scores/game_box_1.html)
 
 [Timeline 53 Game Log](/almanacs/infinite_cleveland_g53_cle3fla2/game_logs/log_1.html)
+
+## Timeline 68: Nen's Nightmare Meltdown (L, CLE 25-24 FLA)
+
+Timeline 68 was a high-scoring, back-and-forth affair, with the lead changing hands 4 times.
+Entering the 9th, it was 19-16 in Cleveland's favor, but Florida broke things wide open
+with an 8 run rally that started with back-to-back solo home runs, followed up with a 9-hit
+inning.
+
+The Marlins had a very comfortable 8-run lead going into the bottom of the 9th, passing the
+ball to Tony Saunders. But when Saunders gave up a walk, a hit, and another walk, the Marlins
+brought in Rob Nen.
+
+Nen started strong, striking out Tony Fernandez for the second out and putting Florida, up
+by 5 runs, 24-19, within three strikes of winning it.
+
+But Nen gave up a single, scoring Justice and making it 24-20.
+
+Then Nen gave up another single, scoring Alomar Jr and making it 24-21.
+
+Then Nen gave up another single, scoring Ramirez and making it 24-22.
+
+Then Nen gave up a double, scoring Williams and Grisom and tying it up at 24-24.
+
+Then, with runners on second and third, Nen tried to staunch the bleeding by intentionally walking Justice.
+
+And then, setting an absolutely shameful World Series record, Rob Nen accidentally walked Sandy Alomar Jr.,
+with the bases loaded, in the bottom of the 9th, of a tie game, in the World Series.
+
+It was the first-ever walk-off bases-loaded walk in World Series history.
+
+[Timeline 68 Box Score](/almanacs/infinite_cleveland_g68_cle25fla24/box_scores/game_box_1.html)
+
+[Timeline 68 Game Log](/almanacs/infinite_cleveland_g68_cle25fla24/game_logs/log_1.html)
