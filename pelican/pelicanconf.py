@@ -4,6 +4,9 @@ from pelican.readers import MarkdownReader
 
 INFINITE_PELICAN_VERSION = "0.1.0"
 
+INFINITE_PELICAN_IMG = '/img/cle.png'
+INFINITE_PELICAN_TITLE = 'Infinite Cleveland'
+
 
 # Yes, this is supposed to be UI not URI...
 SITEURL = os.environ.get('INFINITE_BASE_UI', '')
@@ -12,7 +15,7 @@ AUTHOR = u'Ch4zm of Hellmouth'
 
 HERE = os.path.abspath(os.path.dirname(__file__))
 
-SITENAME = u'Infinite Cleveland'
+SITENAME = INFINITE_PELICAN_TITLE
 
 PATH = 'content'
 THEME = 'infinite-cleveland-pelican-theme'
