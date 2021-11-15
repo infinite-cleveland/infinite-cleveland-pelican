@@ -7,6 +7,8 @@ INFINITE_PELICAN_VERSION = "0.1.0"
 INFINITE_PELICAN_IMG = '/img/cle.png'
 INFINITE_PELICAN_TITLE = 'Infinite Cleveland'
 
+INFINITE_PELICAN_TITLE_CLASS = 'cleveland'
+
 
 # Yes, this is supposed to be UI not URI...
 SITEURL = os.environ.get('INFINITE_BASE_UI', '')
