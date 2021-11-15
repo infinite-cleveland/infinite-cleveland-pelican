@@ -281,7 +281,7 @@ def fix_head(soup, new_title):
     new_div['class'] = "inner"
 
     new_h1 = soup.new_tag("h1")
-    new_h1['class'] = "blog-name"
+    new_h1['class'] = "blog-name cleveland"
 
     new_a = soup.new_tag("a", href="/")
     new_a.string = "Infinite Cleveland"
