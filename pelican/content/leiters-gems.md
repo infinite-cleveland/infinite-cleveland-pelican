@@ -7,7 +7,7 @@ Date: 2000-01-01 00:00
 
 [Al Leiter @ Wikipedia](https://en.wikipedia.org/wiki/Al_Leiter)
 
-## Timeline 10: 8 Shutout Innings, 8 Strikeouts, Combined Shutout (W, FLA 1-0 CLE)
+## Timeline 10: 8 Shutout Innings, 8 Strikeouts, Combined Shutout (FLA win, FLA 1-0 CLE)
 
 Arguably Leiter's greatest performance, in Timeline 10 Leiter pitched 8 shutout innings
 against Cleveland, striking out 8 and allowing 5 hits. Leiter combined with Rob Nen for
@@ -17,7 +17,7 @@ a shutout game that Florida won 1-0.
 
 [Timeline 10 Game Log](/almanacs/infinite_cleveland_g10_fla1cle0/game_logs/log_1.html)
 
-## Timeline 26: 7 Innings, 6 Strikeouts (L, CLE 2-1 FLA)
+## Timeline 26: 7 Innings, 6 Strikeouts (FLA loss, FLA 1-2 CLE)
 
 In Timeline 26, a pitcher's duel, Leiter lasted for 7 innings, striking out 6 and giving up
 just 1 run; Nagy struck out 8 in just 6 1/3. The game was tied 1-1 going into the
@@ -31,7 +31,7 @@ and dove under the catcher's tag in a dramatic walkoff play at the plate.
 
 [Timeline 26 Game Log](/almanacs/infinite_cleveland_g26_cle2fla1/game_logs/log_1.html)
 
-## Timeline 52: 7 Innings, 5 Strikeouts (W, FLA 7-1 CLE)
+## Timeline 52: 7 Innings, 5 Strikeouts (FLA win, FLA 7-1 CLE)
 
 Timeline 52 saw a solid performance by Leiter, who struck out 5 over 7 innings; Cleveland's only run
 scored came off of a solo home run by Sandy Alomar Jr. in the bottom of the 4th.
@@ -42,7 +42,7 @@ by Leiter, _and_ run support from Florida's batting order; for Florida it's typi
 
 [Timeline 52 Game Log](/almanacs/infinite_cleveland_g52_fla7cle1/game_logs/log_1.html)
 
-## Timeline 53: 8 Inning 2-Hitter (L, CLE 3-2 FLA)
+## Timeline 53: 8 Inning 2-Hitter (FLA loss, FLA 2-3 CLE)
 
 Pitching a two-hitter into the 8th inning, the Marlins had a 2-1 lead going into
 the 9th. Rob Nen took over for Leiter in relief, and gave up a walk to David

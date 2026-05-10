@@ -46,7 +46,7 @@ Nagy's Timeline 53 outing was modest, lasting just 6 innings, but Nagy notched
 8 strikeouts, giving up just 1 run in the 2nd inning off of a walk to Bonilla
 and a double by Charles Johnson.
 
-Al Leiter pitched 8 innings of shutout ball in a tight game in Timeline 53.
+Al Leiter pitched 8 innings of 1-run ball in a tight game in Timeline 53.
 Leiter got the job done despite notching only 3 strikeouts, tying up Cleveland.
 
 Cleveland and Florida entered the bottom of the ninth with Florida ahead 2-1 in
@@ -57,7 +57,7 @@ _walked_ home.
 
 Nen gave up a sacrifice fly to Manny Ramirez that scored Justice from third and advanced
 the winning run, Alomar Jr., to third. Tony Fernandez came to the plate, and hit a hard 
-ground ball to second that was just too hot for Craig Consell to handle; Fernandez beat out
+ground ball to second that was just too hot for Craig Counsell to handle; Fernandez beat out
 the throw to first, allowing Alomar Jr. to score the walk-off win from third.
 
 [Timeline 53 Box Score](/almanacs/infinite_cleveland_g53_cle3fla2/box_scores/game_box_1.html)
