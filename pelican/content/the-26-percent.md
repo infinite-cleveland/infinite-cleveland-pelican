@@ -1,7 +1,7 @@
-Title: Floridas Foregone Conclusion
+Title: The 26 Percent
 Date: 2000-01-01 00:00
 
-# Florida's Foregone Conclusion
+# The 26 Percent
 
 On October 21, 1997, the Florida Marlins beat the Cleveland Indians 14-11 in Game 3 of the World Series. The game was tied 7-7 entering the 9th inning. Florida scored 7 in the top of the 9th - fueled by three Cleveland errors, three walks, and a wild pitch - to take a 14-7 lead. Cleveland scored 4 in the bottom of the 9th off closer Robb Nen. Omar Vizquel grounded out to end it with the tying run one batter away.
 
@@ -19,19 +19,18 @@ And it isn't close.
 
 - **Overall record:** Cleveland 51, Florida 18
 - **One-run games:** Cleveland 15, Florida 4
-- **Games where Florida scores first:** 41. Florida wins 14 of those (34%).
-- **Games where Cleveland scores first:** 28. Cleveland wins 24 of those (86%).
-- **Games where Florida holds a lead at any point:** 48. Florida wins 18.
-- **Games where Florida holds a lead and loses:** 30.
-- **Games where Florida holds a 3+ run lead and loses:** 14.
-- **Games where Florida holds a 5-run lead and loses:** 5.
-- **Cleveland trailing at any point and winning:** 30 times out of 48 (62%).
+- **Games where Florida scores first:** 36. Florida wins 13 of those (36%).
+- **Games where Cleveland scores first:** 33. Cleveland wins 28 of those (85%).
+- **Games where Florida holds a lead at any point:** 45. Florida wins 18.
+- **Games where Florida holds a lead and loses:** 27.
+- **Games where Florida holds a 3+ run lead and loses:** 9.
+- **Cleveland trailing at any point and winning:** 51 times out of 62 (82%).
 - **Cleveland leading entering the 9th:** 45 games. Loses 1.
 - **Florida leading entering the 9th:** 18 games. Loses 2.
 
-Florida can lead. Florida can score first. Florida can build a 5-run cushion. It does not matter. Cleveland comes back. In 30 of 51 wins, Cleveland trails at some point and erases the deficit. They overcome 5-run leads five separate times. They overcome 4-run leads nine times.
+Florida can lead. Florida can score first. It does not matter. Cleveland comes back. In 27 of 51 wins, Cleveland trails at some point and erases the deficit. They overcome 3-run deficits nine separate times. They overcome 4-run deficits twice.
 
-Florida does not lose because it cannot score. Florida averages 6.1 runs per game. In the real Game 3, Florida scored 14. In the simulations, Florida scores 10 or more runs in nine different timelines. They still go 5-4 in those games.
+Florida does not lose because it cannot score. Florida averages 6.1 runs per game. In the real Game 3, Florida scored 14. In the simulations, Florida scores 10 or more runs in 14 different timelines. They still go 10-4 in those games.
 
 Florida loses because Cleveland is unkillable.
 
@@ -39,41 +38,37 @@ Florida loses because Cleveland is unkillable.
 
 ## The Leads That Died
 
-In 30 of Florida's 51 losses, Florida held a lead at some point. Here are the worst:
+In 27 of Florida's 51 losses, Florida held a lead at some point. Here are the worst:
 
-### Five-Run Leads Blown (5 times)
+### Four-Run Leads Blown (2 times)
 
-**Timeline 1:** Florida leads 9-5 after 7 innings. Cleveland scores 7 in the bottom of the 8th. Florida scores 4 in the top of the 9th to retake the lead 14-13. Cleveland scores 2 in the bottom of the 9th to walk off 15-14. This game is a near-perfect echo of the real Game 3 - except in this version, Cleveland finishes the rally that real-Cleveland couldn't.
+**Timeline 1:** Florida leads 10-6 after 7 innings. Cleveland scores 7 in the bottom of the 8th to lead 13-10. Florida scores 4 in the top of the 9th to retake the lead 14-13. Cleveland scores 2 in the bottom of the 9th to walk off 15-14. This game is a near-perfect echo of the real Game 3 — except in this version, Cleveland finishes the rally that real-Cleveland couldn't.
 
 [Timeline 1 Box Score](/almanacs/infinite_cleveland_g01_cle15fla14/box_scores/game_box_1.html)
 
 [Timeline 1 Game Log](/almanacs/infinite_cleveland_g01_cle15fla14/game_logs/log_1.html)
 
-**Timeline 33:** Florida leads 5-0 after 2 innings. Cleveland scores 7 in the 4th. Wins 12-9.
-
-[Timeline 33 Box Score](/almanacs/infinite_cleveland_g33_cle12fla9/box_scores/game_box_1.html)
-
-[Timeline 33 Game Log](/almanacs/infinite_cleveland_g33_cle12fla9/game_logs/log_1.html)
-
-**Timeline 63:** Florida leads 5-0 after 3 innings. Cleveland scores 5 in the 5th. Wins 10-5.
+**Timeline 63:** Florida leads 5-0 by the 3rd inning. Cleveland scores 5 in the 5th to tie, then piles on 5 more unanswered. Florida's bats go silent — they don't score after the 3rd. Cleveland wins 10-5.
 
 [Timeline 63 Box Score](/almanacs/infinite_cleveland_g63_cle10fla5/box_scores/game_box_1.html)
 
 [Timeline 63 Game Log](/almanacs/infinite_cleveland_g63_cle10fla5/game_logs/log_1.html)
 
-**Timeline 67:** Florida leads 22-19 entering the 9th. Cleveland scores 4 to walk off 23-22.
+### The Walk-Offs
+
+**Timeline 67:** A 45-run fever dream. Florida leads 22-19 entering the 9th. Cleveland scores 4 in the bottom of the 9th to walk off 23-22. Florida scored 22 runs. It wasn't enough.
 
 [Timeline 67 Box Score](/almanacs/infinite_cleveland_g67_cle23fla22/box_scores/game_box_1.html)
 
 [Timeline 67 Game Log](/almanacs/infinite_cleveland_g67_cle23fla22/game_logs/log_1.html)
 
-**Timeline 68:** Florida leads 25-20 in the 9th inning. Cleveland scores 5 to walk off 25-24.
+**Timeline 53:** Al Leiter throws 8 innings of 1-run ball, striking out 3. Florida leads 2-1 entering the bottom of the 9th. Cleveland scores 2 to walk off 3-2. Leiter's best start of the multiverse — and it doesn't matter.
 
-[Timeline 68 Box Score](/almanacs/infinite_cleveland_g68_cle25fla24/box_scores/game_box_1.html)
+[Timeline 53 Box Score](/almanacs/infinite_cleveland_g53_cle3fla2/box_scores/game_box_1.html)
 
-[Timeline 68 Game Log](/almanacs/infinite_cleveland_g68_cle25fla24/game_logs/log_1.html)
+[Timeline 53 Game Log](/almanacs/infinite_cleveland_g53_cle3fla2/game_logs/log_1.html)
 
-Five times, Florida builds a 5-run lead. Five times, it evaporates. Two of those five are games where the total combined score exceeds 45 runs. The lead should feel safe. It is never safe.
+Florida led in 45 of 69 games. They won 18 of those. The other 27 — that's where the multiverse punishes them. Even a 4-run lead isn't safe. Cleveland erased both of them. A 3-run lead entering the 9th? That went up in smoke too. Every lead Florida built came with an expiration date.
 
 ---
 
