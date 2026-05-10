@@ -1,3 +1,7 @@
 pelican/output
 data/ic*
 data/csv
+.claude
+.DS_Store
+__pycache__
+pelican/infinite-cleveland-pelican-theme
