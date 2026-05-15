@@ -79,7 +79,7 @@ for k, gamedir in enumerate(gamedirs):
     almanac_name = gamedir.split("/")[-1]
 
     dat = {
-        "Index": k,
+        "Index": k+1,
         "WName": wname,
         "WColor": wcolor,
         "WRuns": wruns,

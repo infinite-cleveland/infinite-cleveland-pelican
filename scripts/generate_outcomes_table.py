@@ -94,7 +94,7 @@ new_index_html_table.append(table_head)
 
 for outcome in outcomes_json:
     table_row = table_row_template.format(
-        game_index=outcome['Index']+1,
+        game_index=outcome['Index'],
         winner_name=outcome['WName'],
         winner_color=outcome['WColor'],
         winner_runs=outcome['WRuns'],

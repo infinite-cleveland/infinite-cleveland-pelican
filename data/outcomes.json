@@ -1,6 +1,6 @@
 [
     {
-        "Index": 0,
+        "Index": 1,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 15,
@@ -11,7 +11,7 @@
         "AlmanacName": "infinite_cleveland_g01_cle15fla14"
     },
     {
-        "Index": 1,
+        "Index": 2,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 8,
@@ -22,7 +22,7 @@
         "AlmanacName": "infinite_cleveland_g02_cle8fla4"
     },
     {
-        "Index": 2,
+        "Index": 3,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 6,
@@ -33,7 +33,7 @@
         "AlmanacName": "infinite_cleveland_g03_cle6fla0"
     },
     {
-        "Index": 3,
+        "Index": 4,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 11,
@@ -44,7 +44,7 @@
         "AlmanacName": "infinite_cleveland_g04_fla11cle7"
     },
     {
-        "Index": 4,
+        "Index": 5,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 14,
@@ -55,7 +55,7 @@
         "AlmanacName": "infinite_cleveland_g05_cle14fla3"
     },
     {
-        "Index": 5,
+        "Index": 6,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 13,
@@ -66,7 +66,7 @@
         "AlmanacName": "infinite_cleveland_g06_fla13cle11"
     },
     {
-        "Index": 6,
+        "Index": 7,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 18,
@@ -77,7 +77,7 @@
         "AlmanacName": "infinite_cleveland_g07_cle18fla5"
     },
     {
-        "Index": 7,
+        "Index": 8,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 12,
@@ -88,7 +88,7 @@
         "AlmanacName": "infinite_cleveland_g08_cle12fla2"
     },
     {
-        "Index": 8,
+        "Index": 9,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 8,
@@ -99,7 +99,7 @@
         "AlmanacName": "infinite_cleveland_g09_cle8fla7"
     },
     {
-        "Index": 9,
+        "Index": 10,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 1,
@@ -110,7 +110,7 @@
         "AlmanacName": "infinite_cleveland_g10_fla1cle0"
     },
     {
-        "Index": 10,
+        "Index": 11,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 5,
@@ -121,7 +121,7 @@
         "AlmanacName": "infinite_cleveland_g11_cle5fla4"
     },
     {
-        "Index": 11,
+        "Index": 12,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 6,
@@ -132,7 +132,7 @@
         "AlmanacName": "infinite_cleveland_g12_cle6fla5"
     },
     {
-        "Index": 12,
+        "Index": 13,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 9,
@@ -143,7 +143,7 @@
         "AlmanacName": "infinite_cleveland_g13_cle9fla3"
     },
     {
-        "Index": 13,
+        "Index": 14,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 10,
@@ -154,7 +154,7 @@
         "AlmanacName": "infinite_cleveland_g14_cle10fla8"
     },
     {
-        "Index": 14,
+        "Index": 15,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 3,
@@ -165,7 +165,7 @@
         "AlmanacName": "infinite_cleveland_g15_cle3fla2"
     },
     {
-        "Index": 15,
+        "Index": 16,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 12,
@@ -176,7 +176,7 @@
         "AlmanacName": "infinite_cleveland_g16_cle12fla8_messy"
     },
     {
-        "Index": 16,
+        "Index": 17,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 10,
@@ -187,7 +187,7 @@
         "AlmanacName": "infinite_cleveland_g17_cle10fla6"
     },
     {
-        "Index": 17,
+        "Index": 18,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 17,
@@ -198,7 +198,7 @@
         "AlmanacName": "infinite_cleveland_g18_cle17fla5"
     },
     {
-        "Index": 18,
+        "Index": 19,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 10,
@@ -209,7 +209,7 @@
         "AlmanacName": "infinite_cleveland_g19_fla10cle6"
     },
     {
-        "Index": 19,
+        "Index": 20,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 15,
@@ -220,7 +220,7 @@
         "AlmanacName": "infinite_cleveland_g20_cle15fla12"
     },
     {
-        "Index": 20,
+        "Index": 21,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 11,
@@ -231,7 +231,7 @@
         "AlmanacName": "infinite_cleveland_g21_cle11fla2"
     },
     {
-        "Index": 21,
+        "Index": 22,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 10,
@@ -242,7 +242,7 @@
         "AlmanacName": "infinite_cleveland_g22_cle10fla6"
     },
     {
-        "Index": 22,
+        "Index": 23,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 8,
@@ -253,7 +253,7 @@
         "AlmanacName": "infinite_cleveland_g23_cle8fla5"
     },
     {
-        "Index": 23,
+        "Index": 24,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 4,
@@ -264,7 +264,7 @@
         "AlmanacName": "infinite_cleveland_g24_cle4fla1"
     },
     {
-        "Index": 24,
+        "Index": 25,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 10,
@@ -275,7 +275,7 @@
         "AlmanacName": "infinite_cleveland_g25_fla10cle7"
     },
     {
-        "Index": 25,
+        "Index": 26,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 2,
@@ -286,7 +286,7 @@
         "AlmanacName": "infinite_cleveland_g26_cle2fla1"
     },
     {
-        "Index": 26,
+        "Index": 27,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 3,
@@ -297,7 +297,7 @@
         "AlmanacName": "infinite_cleveland_g27_cle3fla2"
     },
     {
-        "Index": 27,
+        "Index": 28,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 5,
@@ -308,7 +308,7 @@
         "AlmanacName": "infinite_cleveland_g28_cle5fla3"
     },
     {
-        "Index": 28,
+        "Index": 29,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 15,
@@ -319,7 +319,7 @@
         "AlmanacName": "infinite_cleveland_g29_cle15fla4"
     },
     {
-        "Index": 29,
+        "Index": 30,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 11,
@@ -330,7 +330,7 @@
         "AlmanacName": "infinite_cleveland_g30_cle11fla3"
     },
     {
-        "Index": 30,
+        "Index": 31,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 5,
@@ -341,7 +341,7 @@
         "AlmanacName": "infinite_cleveland_g31_cle5fla4"
     },
     {
-        "Index": 31,
+        "Index": 32,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 5,
@@ -352,7 +352,7 @@
         "AlmanacName": "infinite_cleveland_g32_fla5cle4"
     },
     {
-        "Index": 32,
+        "Index": 33,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 12,
@@ -363,7 +363,7 @@
         "AlmanacName": "infinite_cleveland_g33_cle12fla9"
     },
     {
-        "Index": 33,
+        "Index": 34,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 7,
@@ -374,7 +374,7 @@
         "AlmanacName": "infinite_cleveland_g34_fla7cle6"
     },
     {
-        "Index": 34,
+        "Index": 35,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 8,
@@ -385,7 +385,7 @@
         "AlmanacName": "infinite_cleveland_g35_cle8fla2"
     },
     {
-        "Index": 35,
+        "Index": 36,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 7,
@@ -396,7 +396,7 @@
         "AlmanacName": "infinite_cleveland_g36_cle7fla5"
     },
     {
-        "Index": 36,
+        "Index": 37,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 4,
@@ -407,7 +407,7 @@
         "AlmanacName": "infinite_cleveland_g37_cle4fla1"
     },
     {
-        "Index": 37,
+        "Index": 38,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 17,
@@ -418,7 +418,7 @@
         "AlmanacName": "infinite_cleveland_g38_cle17fla2_nightmare"
     },
     {
-        "Index": 38,
+        "Index": 39,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 14,
@@ -429,7 +429,7 @@
         "AlmanacName": "infinite_cleveland_g39_fla14cle1_nightmare2"
     },
     {
-        "Index": 39,
+        "Index": 40,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 16,
@@ -440,7 +440,7 @@
         "AlmanacName": "infinite_cleveland_g40_cle16fla6"
     },
     {
-        "Index": 40,
+        "Index": 41,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 11,
@@ -451,7 +451,7 @@
         "AlmanacName": "infinite_cleveland_g41_fla11cle6"
     },
     {
-        "Index": 41,
+        "Index": 42,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 13,
@@ -462,7 +462,7 @@
         "AlmanacName": "infinite_cleveland_g42_cle13fla3"
     },
     {
-        "Index": 42,
+        "Index": 43,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 8,
@@ -473,7 +473,7 @@
         "AlmanacName": "infinite_cleveland_g43_cle8fla6"
     },
     {
-        "Index": 43,
+        "Index": 44,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 10,
@@ -484,7 +484,7 @@
         "AlmanacName": "infinite_cleveland_g44_fla10cle5"
     },
     {
-        "Index": 44,
+        "Index": 45,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 4,
@@ -495,7 +495,7 @@
         "AlmanacName": "infinite_cleveland_g45_cle4fla0"
     },
     {
-        "Index": 45,
+        "Index": 46,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 7,
@@ -506,7 +506,7 @@
         "AlmanacName": "infinite_cleveland_g46_cle7fla0"
     },
     {
-        "Index": 46,
+        "Index": 47,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 4,
@@ -517,7 +517,7 @@
         "AlmanacName": "infinite_cleveland_g47_cle4fla3"
     },
     {
-        "Index": 47,
+        "Index": 48,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 8,
@@ -528,7 +528,7 @@
         "AlmanacName": "infinite_cleveland_g48_fla8cle6"
     },
     {
-        "Index": 48,
+        "Index": 49,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 11,
@@ -539,7 +539,7 @@
         "AlmanacName": "infinite_cleveland_g49_cle11fla4"
     },
     {
-        "Index": 49,
+        "Index": 50,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 10,
@@ -550,7 +550,7 @@
         "AlmanacName": "infinite_cleveland_g50_cle10fla2"
     },
     {
-        "Index": 50,
+        "Index": 51,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 11,
@@ -561,7 +561,7 @@
         "AlmanacName": "infinite_cleveland_g51_fla11cle8"
     },
     {
-        "Index": 51,
+        "Index": 52,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 7,
@@ -572,7 +572,7 @@
         "AlmanacName": "infinite_cleveland_g52_fla7cle1"
     },
     {
-        "Index": 52,
+        "Index": 53,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 3,
@@ -583,7 +583,7 @@
         "AlmanacName": "infinite_cleveland_g53_cle3fla2"
     },
     {
-        "Index": 53,
+        "Index": 54,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 7,
@@ -594,7 +594,7 @@
         "AlmanacName": "infinite_cleveland_g54_cle7fla5"
     },
     {
-        "Index": 54,
+        "Index": 55,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 5,
@@ -605,7 +605,7 @@
         "AlmanacName": "infinite_cleveland_g55_cle5fla4"
     },
     {
-        "Index": 55,
+        "Index": 56,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 7,
@@ -616,7 +616,7 @@
         "AlmanacName": "infinite_cleveland_g56_cle7fla4"
     },
     {
-        "Index": 56,
+        "Index": 57,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 4,
@@ -627,7 +627,7 @@
         "AlmanacName": "infinite_cleveland_g57_cle4fla3"
     },
     {
-        "Index": 57,
+        "Index": 58,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 17,
@@ -638,7 +638,7 @@
         "AlmanacName": "infinite_cleveland_g58_fla17cle9"
     },
     {
-        "Index": 58,
+        "Index": 59,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 20,
@@ -649,7 +649,7 @@
         "AlmanacName": "infinite_cleveland_g59_fla20cle1"
     },
     {
-        "Index": 59,
+        "Index": 60,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 7,
@@ -660,7 +660,7 @@
         "AlmanacName": "infinite_cleveland_g60_fla7cle6"
     },
     {
-        "Index": 60,
+        "Index": 61,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 13,
@@ -671,7 +671,7 @@
         "AlmanacName": "infinite_cleveland_g61_cle13fla4"
     },
     {
-        "Index": 61,
+        "Index": 62,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 7,
@@ -682,7 +682,7 @@
         "AlmanacName": "infinite_cleveland_g62_fla7cle5"
     },
     {
-        "Index": 62,
+        "Index": 63,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 10,
@@ -693,7 +693,7 @@
         "AlmanacName": "infinite_cleveland_g63_cle10fla5"
     },
     {
-        "Index": 63,
+        "Index": 64,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 15,
@@ -704,7 +704,7 @@
         "AlmanacName": "infinite_cleveland_g64_cle15fla5"
     },
     {
-        "Index": 64,
+        "Index": 65,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 13,
@@ -715,7 +715,7 @@
         "AlmanacName": "infinite_cleveland_g65_cle13fla1"
     },
     {
-        "Index": 65,
+        "Index": 66,
         "WName": "Florida",
         "WColor": "009ca6",
         "WRuns": 8,
@@ -726,7 +726,7 @@
         "AlmanacName": "infinite_cleveland_g66_fla8cle6"
     },
     {
-        "Index": 66,
+        "Index": 67,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 23,
@@ -737,7 +737,7 @@
         "AlmanacName": "infinite_cleveland_g67_cle23fla22"
     },
     {
-        "Index": 67,
+        "Index": 68,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 25,
@@ -748,7 +748,7 @@
         "AlmanacName": "infinite_cleveland_g68_cle25fla24"
     },
     {
-        "Index": 68,
+        "Index": 69,
         "WName": "Cleveland",
         "WColor": "e31937",
         "WRuns": 6,

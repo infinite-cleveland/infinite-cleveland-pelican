@@ -76,7 +76,7 @@ def copy_csv_data(csvdir, destdir, csvname, timeline=-1):
     """
     csvlines = fetch_csv_lines(csvdir, csvname)
     csvdata = csvlines[1:]
-    if timeline >= 0:
+    if timeline > 0:
         timeline_csvdata = insert_timeline_csv_data(csvdata, timeline)
     else:
         timeline_csvdata = csvdata
@@ -148,11 +148,11 @@ def main():
             init(csvdir, destdir, 'players_at_bat_batting_stats.csv')
 
         print(f"Copying timeline {k+1} data to new CSV data")
-        copy_csv_data(csvdir, destdir, 'games.csv', k)
-        copy_csv_data(csvdir, destdir, 'games_score.csv', k)
-        copy_csv_data(csvdir, destdir, 'players_game_batting.csv', k)
-        copy_csv_data(csvdir, destdir, 'players_game_pitching_stats.csv', k)
-        copy_csv_data(csvdir, destdir, 'players_at_bat_batting_stats.csv', k)
+        copy_csv_data(csvdir, destdir, 'games.csv', k+1)
+        copy_csv_data(csvdir, destdir, 'games_score.csv', k+1)
+        copy_csv_data(csvdir, destdir, 'players_game_batting.csv', k+1)
+        copy_csv_data(csvdir, destdir, 'players_game_pitching_stats.csv', k+1)
+        copy_csv_data(csvdir, destdir, 'players_at_bat_batting_stats.csv', k+1)
 
 
 if __name__=="__main__":
